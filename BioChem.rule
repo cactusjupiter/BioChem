@@ -1,12 +1,25 @@
 @RULE BioChem
 
-1 births more 1s
-1 turns into 2
-2 turns into 3
-3 dies
+In words:
+S1 spawns from two S1 with a non S3 near an S0.
 
-this was not a variation on brians brain, it just kinda ended up like that
+This drives the front of many engines.
+
+S2 spawns from three S1 and an S3 near an S0.
+
+S1 and S2 in crowded populations [(5+) and (6+) respectively] turn to S3 and S0 respectively.
+	
+S2 in medium populations (4-5) cycles back to S1
+
+S3 near three S1, and one to two non-S0, cycles back to S2
+
+Cycling back drives many chain reactions.
+
+If none of the other stuff happened to this cell, S1 turns to S2, S2 turns to S3, and S3 dies.
+
+
 made by cactusjupiter
+4 state, Moore neighborhood cellular automaton with emergent stable mobile structures, sustained through chain reactions.
 
 color schemes:
 original:
@@ -27,6 +40,7 @@ cinnabar:
 1 200 100 120
 2 150 75 90
 3 115 50 75
+
 
 
 @TABLE

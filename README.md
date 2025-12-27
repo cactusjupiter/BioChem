@@ -9,4 +9,4 @@ Create a file called “BioChem.rule”, in the Golly program’s Rules folder. 
 Copy the Rule File text below into the file using a text editor.\
 Open Golly, and click on BioChem.rule using the built in file manager.\
 Create, react, and play around!
-The PDF contains more information on Biochem, such as common structures, experimental methods, and
+The PDF contains more information on Biochem, such as common structures, experimental methods, and other phenomena.
